@@ -1,6 +1,8 @@
 # deepPseudoMSI
 Deep learning-based pseudo mass spectrometry imaging.
 
+More information can be found [here](https://www.deeppseudomsi.org/).
+
 # Install packages
 
 Please install R packages that used in the analysis.
