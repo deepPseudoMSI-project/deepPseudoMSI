@@ -17,3 +17,7 @@ install.packages("VennDiagram")
 install.packages("randomForest")
 install.packages("Boruta")
 ```
+
+# Code
+
+There are two parts of codes in this repo. First one is the code for `deepPseudoMSI` and the second one is the codes for analysis in our manuscript.
