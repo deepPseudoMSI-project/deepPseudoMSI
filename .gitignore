@@ -37,3 +37,6 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+data_analysis/metabolome_data
+data_analysis/metabolome_data/
