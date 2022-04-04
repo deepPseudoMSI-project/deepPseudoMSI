@@ -1,5 +1,6 @@
 # deepPseudoMSI
-Deep learning-based pseudo mass spectrometry imaging.
+
+Deep learning-based pseudo mass spectrometry imaging processing for precision medicine.
 
 More information can be found [here](https://www.deeppseudomsi.org/).
 
@@ -20,4 +21,16 @@ install.packages("Boruta")
 
 # Code
 
-There are two parts of codes in this repo. First one is the code for `deepPseudoMSI` and the second one is the codes for analysis in our manuscript.
+There are three parts of codes in this repo. 
+
+1. `pseudoMS-image-converter`
+
+This is written by R which is used to convert LC-MS raw data to pseudo-MS image.
+
+2. `pseudoMS-image-predictor`
+
+This is written by Python which is used to construct deep learning prediction model.
+
+3. `figures_in_manuscript`
+
+All the analysis code in our manuscript.
