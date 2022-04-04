@@ -41,5 +41,10 @@ vignettes/*.pdf
 data_analysis/metabolome_data
 data_analysis/metabolome_data/
 
+<<<<<<< HEAD
 manuscript
 manuscript/
+=======
+data_analysis/manuscript
+data_analysis/manuscript/
+>>>>>>> f1080bdc004d4a87ac8bf31e1fbafd2b5960a60b
