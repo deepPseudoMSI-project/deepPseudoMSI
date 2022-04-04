@@ -40,3 +40,6 @@ vignettes/*.pdf
 
 data_analysis/metabolome_data
 data_analysis/metabolome_data/
+
+manuscript
+manuscript/
